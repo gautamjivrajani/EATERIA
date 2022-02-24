@@ -1,4 +1,4 @@
-# foor_ordering
+# food_ordering
 
 A new Flutter project.
 
